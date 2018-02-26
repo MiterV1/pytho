@@ -1,2 +1,2 @@
 # python
-personnal python labs
+personal python labs
