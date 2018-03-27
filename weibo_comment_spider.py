@@ -18,7 +18,7 @@ httpHeaders = {
 
 
 def main(argv):
-    comment_id = "4211804613220003"
+    comment_id = "xxxxxxxxxxxxxxx"
     url = "https://m.weibo.cn/api/comments/show?id=" + comment_id + "&page={}"
     f_orig = open("orig_data.txt", "wb+")
     f_mod = open("mod_data.txt", "wb+")
